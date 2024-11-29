@@ -8,7 +8,7 @@ This project implements various deep learning models for document retrieval and 
 
 ## Models Implemented
 - **BM25** : Combination of traditional BM25 scoring with deep learning models to enhance relevance ranking.
-- **Hybrid Approaches**:  is an RNN with Transformer-level LLM performance, which can also be directly trained like a GPT transformer (parallelizable). And it's 100% attention-free
+- **RWKV**:  is an RNN with Transformer-level LLM performance, which can also be directly trained like a GPT transformer (parallelizable). And it's 100% attention-free
 
 ## Metrics
 - **Mean Reciprocal Rank (MRR@100)**: Measures the average rank of the first relevant document.
